@@ -1,0 +1,10 @@
+genkai-cyberkongz.app
+giveaway.web/app
+hellio.pw
+maqiceden.xyz
+nana-giveaway
+ord-sea.xyz
+solflareextension.com
+tensor.press
+turbodash.xyz
+zksych.net
