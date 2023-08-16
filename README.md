@@ -9,5 +9,5 @@ Guides, Tips, and Resources to better manage Discord for NFT Projects (and other
 
 ### Scam Invite Blacklists
 Two lists are currently tracked that can be used to setup automatic blacklisting and spam filtering.
-* [Blacklist of Web3 Scam Links](Tips-And-Tricks/web3-scam-link-blacklist.md)
-* [Blacklist of Discord Scam Invites](Tips-And-Tricks/discord-scam-invite-blacklist.md)
+* [Blacklist of Web3 Scam Links](Tips-And-Tricks/web3-scam-link-blacklist.txt)
+* [Blacklist of Discord Scam Invites](Tips-And-Tricks/discord-scam-invite-blacklist.txt)
